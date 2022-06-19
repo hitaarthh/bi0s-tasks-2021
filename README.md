@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/91147942/174141786-a84c78ad-5ac2-46c6-b933-ede4ba67cb1a.png">
+
 <div>
 <a href="https://join.bi0s.in/"><img src="https://img.shields.io/badge/teamBi0s%20-%3CtaskList%3E-green[700]" align="left"></a>
 <a href="https://bi0s.in/"><img src="https://img.shields.io/badge/teamBi0s%20-%F0%9F%95%B8-black" align="right"></a>
